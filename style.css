@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 90px;
+    /* margin-left: 20%; */
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/07/30/notebook-background-vector-1340730.jpg");
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+.tasks{
+    margin-left: 63%;
+    margin-top: -60px;
+}
+
+.add{
+    margin-left: 20%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 63%;
+    margin-top: 70px;
+}
+li {
+    margin-bottom: 5px;
+}
+.completed {
+    text-decoration: line-through;
+}
